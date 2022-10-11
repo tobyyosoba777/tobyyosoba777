@@ -8,8 +8,8 @@
 ## I'm a student and a programmer
 - 🌱 I’m currently learning Python and react
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Learn more about Machine and deep learning
-- ⚡ Fun fact: I love to draw as well
+- 🥅 2022 Goals: Learn new Tech Stacks
+- ⚡ Fun fact: I play football
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
