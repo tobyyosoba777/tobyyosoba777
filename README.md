@@ -6,8 +6,8 @@
 
 
 ## I am a student and a programmer
-- 🌱 I’m currently learning Python and react
-- 🥅 2022 Goals: Learn new Tech Stacks
+- 🌱 I’m currently working on my web dev skills
+- 🥅 Goals: Learn new Tech Stacks
 - ⚡ Fun fact: I play football
 &nbsp;&nbsp;
 &nbsp;&nbsp;
