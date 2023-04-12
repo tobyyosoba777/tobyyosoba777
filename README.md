@@ -8,7 +8,7 @@
 ## I am a student and a programmer
 - 🌱 I’m currently working on my web dev skills
 - 🥅 Goals: Learn new Tech Stacks
-- ⚡ Fun fact: I play football
+- ⚡ Fun fact: I play football and watch anime
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
