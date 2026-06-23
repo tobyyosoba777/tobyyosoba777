@@ -8,7 +8,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=octocat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 
-## I am a student and a developer
+## Serving Corps Member and developer
 - 🌱 I’m currently working on my web dev skills
 - 🥅 Goals: Learn new Tech Stacks
 - ⚡ Fun fact: I play football and watch anime
